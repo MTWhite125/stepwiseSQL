@@ -1,0 +1,1 @@
+{"format": "mini-sqlite-v1", "tables": {"users": {"columns": [{"name": "id", "type": "INTEGER", "primary": true}, {"name": "name", "type": "TEXT", "primary": false}, {"name": "age", "type": "INTEGER", "primary": false}], "rows": []}}}
